@@ -22,6 +22,7 @@ logout
 <img width="1214" height="768" alt="Screenshot from 2026-10-13 09-45-43" src="https://github.com/user-attachments/assets/71a25c0d-7a78-4571-aeef-290db0500148" />
 
 4.Bash script
+
 a.Buat 3 buah script p1.sh, p2.sh, p3.sh dengan isi masing-masing :
 <img width="1214" height="768" alt="Screenshot from 2026-10-13 10-10-46" src="https://github.com/user-attachments/assets/232d2927-6519-40a4-a920-ba6ce6de533e" />
 b.Jalankan script tersebut sebagai berikut :
