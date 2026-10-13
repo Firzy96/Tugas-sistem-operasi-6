@@ -1,5 +1,6 @@
 # Tugas-sistem-operasi-6
 1.Eksekusi seluruh profile yang ada :
+
 a.Edit file profile /etc/profile dan tampilkan pesan sebagai berikut :
 <img width="1214" height="768" alt="Screenshot from 2026-10-13 08-58-11" src="https://github.com/user-attachments/assets/61325793-402a-4c68-95af-0b8f6ab68033" />
 b.Asumsi nama anda stD02001, maka edit semua profile yang ada yaitu :
@@ -9,6 +10,7 @@ berikut:
 <img width="1214" height="768" alt="Screenshot from 2026-10-13 09-19-51" src="https://github.com/user-attachments/assets/f54fc104-4e18-4213-8ed9-971345b95925" />
 
 2.Prompt String (PS)
+
 a.Edit file .bash_profile, ganti prompt PS1 dengan ‘>’. Instruksi export diperlukan
 dengan parameter nama variable tersebut, agar perubahan variable PS1 dikenal
 oleh semua shell
@@ -33,6 +35,7 @@ b.Jalankan script tersebut sebagai berikut :
 <img width="1214" height="768" alt="Screenshot from 2026-10-13 10-15-58" src="https://github.com/user-attachments/assets/c2e77920-607d-412c-916b-4ab8052bf3f2" />
 
 5.Jobs
+
  a.Buat shell-script yang melakukan loop dengan nama pwaktu.sh, setiap 10 detik,
 kemudian menyimpan tanggal dan jam pada file hasil.
 <img width="1214" height="768" alt="Screenshot from 2026-10-13 10-21-38" src="https://github.com/user-attachments/assets/4be46ecf-32ca-4c27-9543-cb47dd5277fa" />
@@ -48,6 +51,7 @@ d.Stop program background dengan utilitas kill
 <img width="1214" height="768" alt="Screenshot from 2026-10-13 10-30-40" src="https://github.com/user-attachments/assets/33bafda0-29c9-47cd-97d4-4153709a8df4" />
 
 6.History
+
  a.Ganti nilai HISTSIZE dari 1000 menjadi 20
  <img width="1214" height="768" alt="Screenshot from 2026-10-13 10-33-56" src="https://github.com/user-attachments/assets/2b740acf-1e98-434c-bb76-e83ab0812cb9" />
 b.Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang
