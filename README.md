@@ -23,3 +23,22 @@ logout
 
 4.Bash script
 a.Buat 3 buah script p1.sh, p2.sh, p3.sh dengan isi masing-masing :
+<img width="1214" height="768" alt="Screenshot from 2026-10-13 10-10-46" src="https://github.com/user-attachments/assets/232d2927-6519-40a4-a920-ba6ce6de533e" />
+b.Jalankan script tersebut sebagai berikut :
+<img width="1214" height="768" alt="Screenshot from 2026-10-13 10-11-40" src="https://github.com/user-attachments/assets/7f969e42-6f7f-4b61-bd34-bb85f0c21566" />
+<img width="1214" height="768" alt="Screenshot from 2026-10-13 10-12-01" src="https://github.com/user-attachments/assets/dc722941-5bf7-44af-817b-645fcb2924b8" />
+<img width="1214" height="768" alt="Screenshot from 2026-10-13 10-13-56" src="https://github.com/user-attachments/assets/6585bdf6-7d5a-43f2-8a84-3ff7935c140d" />
+<img width="1214" height="768" alt="Screenshot from 2026-10-13 10-14-26" src="https://github.com/user-attachments/assets/2fa9fe01-7115-4be9-9dc8-ee2d9c1eaa13" />
+<img width="1214" height="768" alt="Screenshot from 2026-10-13 10-15-58" src="https://github.com/user-attachments/assets/c2e77920-607d-412c-916b-4ab8052bf3f2" />
+
+5.Jobs
+a.Buat shell-script yang melakukan loop dengan nama pwaktu.sh, setiap 10 detik,
+kemudian menyimpan tanggal dan jam pada file hasil.
+
+
+
+
+
+
+
+
