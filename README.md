@@ -33,8 +33,42 @@ b.Jalankan script tersebut sebagai berikut :
 <img width="1214" height="768" alt="Screenshot from 2026-10-13 10-15-58" src="https://github.com/user-attachments/assets/c2e77920-607d-412c-916b-4ab8052bf3f2" />
 
 5.Jobs
-a.Buat shell-script yang melakukan loop dengan nama pwaktu.sh, setiap 10 detik,
+ a.Buat shell-script yang melakukan loop dengan nama pwaktu.sh, setiap 10 detik,
 kemudian menyimpan tanggal dan jam pada file hasil.
+<img width="1214" height="768" alt="Screenshot from 2026-10-13 10-21-38" src="https://github.com/user-attachments/assets/4be46ecf-32ca-4c27-9543-cb47dd5277fa" />
+<img width="1214" height="768" alt="Screenshot from 2026-10-13 10-20-38" src="https://github.com/user-attachments/assets/1ad8a250-be72-4fd8-af96-4dda5ba68407" />
+b.Jalankan sebagai background; kemudian jalankan satu program (utilitas find) di
+background sebagai berikut :
+<img width="1214" height="768" alt="Screenshot from 2026-10-13 10-24-08" src="https://github.com/user-attachments/assets/c95acadf-ab8e-4bdf-800a-0a79bf2fd386" />
+c.Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program
+tersebut ke background
+<img width="1214" height="768" alt="Screenshot from 2026-10-13 10-28-28" src="https://github.com/user-attachments/assets/48d6d438-5e6f-478b-b1e6-80eea7062645" />
+d.Stop program background dengan utilitas kill
+<img width="1214" height="768" alt="Screenshot from 2026-10-13 10-30-12" src="https://github.com/user-attachments/assets/5ef018b5-ab8d-45a0-b5d5-f5637e2c35b2" />
+<img width="1214" height="768" alt="Screenshot from 2026-10-13 10-30-40" src="https://github.com/user-attachments/assets/33bafda0-29c9-47cd-97d4-4153709a8df4" />
+
+6.History
+ a.Ganti nilai HISTSIZE dari 1000 menjadi 20
+ <img width="1214" height="768" alt="Screenshot from 2026-10-13 10-33-56" src="https://github.com/user-attachments/assets/2b740acf-1e98-434c-bb76-e83ab0812cb9" />
+b.Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang
+terakhir dilakukan
+<img width="1214" height="768" alt="Screenshot from 2026-10-13 10-37-12" src="https://github.com/user-attachments/assets/b69ba539-5e93-4ba7-a721-928c58ab3621" />
+c.Ulangi instruksi yang terakhir. Gunakan juga ^P dan ^N untuk bernavigasi pada
+history bufer
+<img width="1214" height="768" alt="Screenshot from 2026-10-13 10-40-27" src="https://github.com/user-attachments/assets/2ba9f681-041f-451f-836b-63f903d0e78c" />
+d.Ulangi instruksi pada history bufer nomor 150
+<img width="1214" height="768" alt="Screenshot from 2026-10-13 10-42-02" src="https://github.com/user-attachments/assets/f7348030-e3d3-4d9f-8692-593d46580bf0" />
+e.Ulangi instruksi dengan prefix “ls”
+<img width="1214" height="768" alt="Screenshot from 2026-10-13 10-43-12" src="https://github.com/user-attachments/assets/505e39aa-ae5b-4a06-9b56-10589beeae79" />
+
+
+
+
+
+
+
+
+
 
 
 
